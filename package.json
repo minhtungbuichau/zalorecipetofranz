@@ -1,0 +1,14 @@
+{
+	"name": "Zalo",
+	"version": "1.0.0",
+	"description": "Franz 2 Zalo ",
+	"main": "index.js",
+	"author": "tungbcm <bcminhtung@outlook.com>",
+	"license": "MIT",
+	"id": "zalo",
+	"config": {
+		"serviceURL": "http://web.zaloapp.com/login",
+		"hasNotificationSound": true,
+		"message": "The new market-leading messaging app with amazing features."
+	}
+}
